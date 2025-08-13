@@ -1,782 +1,136 @@
 [
-  {
-    "round": 1,
-    "date": "2025-08-21",
-    "home": "أ. أقبو",
-    "away": "ت. مستغانم",
-    "status": "NS"
-  },
-  {
-    "round": 1,
-    "date": "2025-08-21",
-    "home": "م. وهران",
-    "away": "ن. بن عكنون",
-    "status": "NS"
-  },
-  {
-    "round": 1,
-    "date": "2025-08-22",
-    "home": "ش. القبائل",
-    "away": "إ. الجزائر",
-    "status": "NS"
-  },
-  {
-    "round": 1,
-    "date": "2025-08-22",
-    "home": "م. الجزائر",
-    "away": "ش. بلوزداد",
-    "status": "NS"
-  },
-  {
-    "round": 1,
-    "date": "2025-08-22",
-    "home": "أ. بارادو",
-    "away": "ج. أ. الشلف",
-    "status": "NS"
-  },
-  {
-    "round": 1,
-    "date": "2025-08-23",
-    "home": "إ. خنشلة",
-    "away": "و. سطيف",
-    "status": "NS"
-  },
-  {
-    "round": 1,
-    "date": "2025-08-23",
-    "home": "ش. الساورة",
-    "away": "م. الرويسات",
-    "status": "NS"
-  },
-  {
-    "round": 1,
-    "date": "2025-08-23",
-    "home": "م. البيض",
-    "away": "ن. ر. القسنطيني",
-    "status": "NS"
-  }
-]
-            {
-                "round": 2,
-                "date": "",
-                "home": "ت . مستغانم",
-                "away": "ن . ر . القسنطيني",
-                "status": "NS"
-            },
-            {
-                "round": 2,
-                "date": "",
-                "home": "م . الرويسات",
-                "away": "م . البيض",
-                "status": "NS"
-            },
-            {
-                "round": 2,
-                "date": "",
-                "home": "و . سطيف",
-                "away": "ش . الساورة",
-                "status": "NS"
-            },
-            {
-                "round": 2,
-                "date": "",
-                "home": "إ . خنشلة",
-                "away": "ج . الشلف",
-                "status": "NS"
-            },
-            {
-                "round": 2,
-                "date": "",
-                "home": "ش . بلوزداد",
-                "away": "أ . بارادو",
-                "status": "NS"
-            },
-            {
-                "round": 2,
-                "date": "",
-                "home": "إ . الجزائر",
-                "away": "م . الجزائر",
-                "status": "NS"
-            },
-            {
-                "round": 2,
-                "date": "",
-                "home": "ن . بن عكنون",
-                "away": "ش . القبائل",
-                "status": "NS"
-            },
-            {
-                "round": 2,
-                "date": "",
-                "home": "أ . أقبو",
-                "away": "م . وهران",
-                "status": "NS"
-            },
-            {
-                "round": 3,
-                "date": "",
-                "home": "م . وهران",
-                "away": "ت . مستغانم",
-                "status": "NS"
-            },
-            {
-                "round": 3,
-                "date": "",
-                "home": "ش . القبائل",
-                "away": "أ . أقبو",
-                "status": "NS"
-            },
-            {
-                "round": 3,
-                "date": "",
-                "home": "أ . بارادو",
-                "away": "إ . الجزائر",
-                "status": "NS"
-            },
-            {
-                "round": 3,
-                "date": "",
-                "home": "م . الجزائر",
-                "away": "ن . بن عكنون",
-                "status": "NS"
-            },
-            {
-                "round": 3,
-                "date": "",
-                "home": "إ . خنشلة",
-                "away": "ش . بلوزداد",
-                "status": "NS"
-            },
-            {
-                "round": 3,
-                "date": "",
-                "home": "ش . الساورة",
-                "away": "ج . الشلف",
-                "status": "NS"
-            },
-            {
-                "round": 3,
-                "date": "",
-                "home": "م . البيض",
-                "away": "و . سطيف",
-                "status": "NS"
-            },
-            {
-                "round": 3,
-                "date": "",
-                "home": "ن . ر . القسنطيني",
-                "away": "م . الرويسات",
-                "status": "NS"
-            },
-            {
-                "round": 4,
-                "date": "",
-                "home": "ت . مستغانم",
-                "away": "م . الرويسات",
-                "status": "NS"
-            },
-            {
-                "round": 4,
-                "date": "",
-                "home": "و . سطيف",
-                "away": "ن . ر . القسنطيني",
-                "status": "NS"
-            },
-            {
-                "round": 4,
-                "date": "",
-                "home": "ج . الشلف",
-                "away": "م . البيض",
-                "status": "NS"
-            },
-            {
-                "round": 4,
-                "date": "",
-                "home": "ش . بلوزداد",
-                "away": "ش . الساورة",
-                "status": "NS"
-            },
-            {
-                "round": 4,
-                "date": "",
-                "home": "إ . خنشلة",
-                "away": "إ . الجزائر",
-                "status": "NS"
-            },
-            {
-                "round": 4,
-                "date": "",
-                "home": "ن . بن عكنون",
-                "away": "أ . بارادو",
-                "status": "NS"
-            },
-            {
-                "round": 4,
-                "date": "",
-                "home": "أ . أقبو",
-                "away": "م . الجزائر",
-                "status": "NS"
-            },
-            {
-                "round": 4,
-                "date": "",
-                "home": "م . وهران",
-                "away": "ش . القبائل",
-                "status": "NS"
-            },
-            {
-                "round": 5,
-                "date": "",
-                "home": "ش . القبائل",
-                "away": "ت . مستغانم",
-                "status": "NS"
-            },
-            {
-                "round": 5,
-                "date": "",
-                "home": "م . الجزائر",
-                "away": "م . وهران",
-                "status": "NS"
-            },
-            {
-                "round": 5,
-                "date": "",
-                "home": "أ . بارادو",
-                "away": "أ . أقبو",
-                "status": "NS"
-            },
-            {
-                "round": 5,
-                "date": "",
-                "home": "إ . خنشلة",
-                "away": "ن . بن عكنون",
-                "status": "NS"
-            },
-            {
-                "round": 5,
-                "date": "",
-                "home": "إ . الجزائر",
-                "away": "ش . الساورة",
-                "status": "NS"
-            },
-            {
-                "round": 5,
-                "date": "",
-                "home": "م . البيض",
-                "away": "ن . ر . القسنطيني",
-                "status": "NS"
-            },
-            {
-                "round": 5,
-                "date": "",
-                "home": "ش . بلوزداد",
-                "away": "ج . الشلف",
-                "status": "NS"
-            },
-            {
-                "round": 5,
-                "date": "",
-                "home": "و . سطيف",
-                "away": "م . الرويسات",
-                "status": "NS"
-            },
-            {
-                "round": 6,
-                "date": "",
-                "home": "ت . مستغانم",
-                "away": "و . سطيف",
-                "status": "NS"
-            },
-            {
-                "round": 6,
-                "date": "",
-                "home": "ج . الشلف",
-                "away": "ش . بلوزداد",
-                "status": "NS"
-            },
-            {
-                "round": 6,
-                "date": "",
-                "home": "إ . الجزائر",
-                "away": "م . البيض",
-                "status": "NS"
-            },
-            {
-                "round": 6,
-                "date": "",
-                "home": "ن . بن عكنون",
-                "away": "ش . الساورة",
-                "status": "NS"
-            },
-            {
-                "round": 6,
-                "date": "",
-                "home": "أ . أقبو",
-                "away": "إ . خنشلة",
-                "status": "NS"
-            },
-            {
-                "round": 6,
-                "date": "",
-                "home": "م . وهران",
-                "away": "أ . بارادو",
-                "status": "NS"
-            },
-            {
-                "round": 6,
-                "date": "",
-                "home": "ش . القبائل",
-                "away": "م . الجزائر",
-                "status": "NS"
-            },
-            {
-                "round": 7,
-                "date": "",
-                "home": "م . الجزائر",
-                "away": "ت . مستغانم",
-                "status": "NS"
-            },
-            {
-                "round": 7,
-                "date": "",
-                "home": "أ . بارادو",
-                "away": "ش . القبائل",
-                "status": "NS"
-            },
-            {
-                "round": 7,
-                "date": "",
-                "home": "إ . خنشلة",
-                "away": "م . وهران",
-                "status": "NS"
-            },
-            {
-                "round": 7,
-                "date": "",
-                "home": "ش . الساورة",
-                "away": "أ . أقبو",
-                "status": "NS"
-            },
-            {
-                "round": 7,
-                "date": "",
-                "home": "م . البيض",
-                "away": "ن . بن عكنون",
-                "status": "NS"
-            },
-            {
-                "round": 7,
-                "date": "",
-                "home": "ن . ر . القسنطيني",
-                "away": "إ . الجزائر",
-                "status": "NS"
-            },
-            {
-                "round": 7,
-                "date": "",
-                "home": "م . الرويسات",
-                "away": "ش . بلوزداد",
-                "status": "NS"
-            },
-            {
-                "round": 7,
-                "date": "",
-                "home": "و . سطيف",
-                "away": "ج . الشلف",
-                "status": "NS"
-            },
-            {
-                "round": 8,
-                "date": "",
-                "home": "ت . مستغانم",
-                "away": "ج . الشلف",
-                "status": "NS"
-            },
-            {
-                "round": 8,
-                "date": "",
-                "home": "ش . بلوزداد",
-                "away": "و . سطيف",
-                "status": "NS"
-            },
-            {
-                "round": 8,
-                "date": "",
-                "home": "إ . الجزائر",
-                "away": "م . الرويسات",
-                "status": "NS"
-            },
-            {
-                "round": 8,
-                "date": "",
-                "home": "ن . بن عكنون",
-                "away": "ن . ر . القسنطيني",
-                "status": "NS"
-            },
-            {
-                "round": 8,
-                "date": "",
-                "home": "أ . أقبو",
-                "away": "م . البيض",
-                "status": "NS"
-            },
-            {
-                "round": 8,
-                "date": "",
-                "home": "م . وهران",
-                "away": "ش . الساورة",
-                "status": "NS"
-            },
-            {
-                "round": 8,
-                "date": "",
-                "home": "ش . القبائل",
-                "away": "إ . خنشلة",
-                "status": "NS"
-            },
-            {
-                "round": 8,
-                "date": "",
-                "home": "م . الجزائر",
-                "away": "أ . بارادو",
-                "status": "NS"
-            },
-            {
-                "round": 10,
-                "date": "",
-                "home": "ت. مستغانم",
-                "away": "ش. بلوزداد",
-                "status": "NS"
-            },
-            {
-                "round": 10,
-                "date": "",
-                "home": "إ. الجزائر",
-                "away": "ج. أ. الشلف",
-                "status": "NS"
-            },
-            {
-                "round": 10,
-                "date": "",
-                "home": "ن. ب. عكنون",
-                "away": "و. سطيف",
-                "status": "NS"
-            },
-            {
-                "round": 10,
-                "date": "",
-                "home": "أ. أقبو",
-                "away": "م. الرويسات",
-                "status": "NS"
-            },
-            {
-                "round": 10,
-                "date": "",
-                "home": "م. وهران",
-                "away": "ن. ر. القسنطيني",
-                "status": "NS"
-            },
-            {
-                "round": 10,
-                "date": "",
-                "home": "ش. القبائل",
-                "away": "م. البيض",
-                "status": "NS"
-            },
-            {
-                "round": 10,
-                "date": "",
-                "home": "م. الجزائر",
-                "away": "ش. الساورة",
-                "status": "NS"
-            },
-            {
-                "round": 10,
-                "date": "",
-                "home": "أ. بارادو",
-                "away": "إ. خنشلة",
-                "status": "NS"
-            },
-            {
-                "round": 11,
-                "date": "",
-                "home": "إ. خنشلة",
-                "away": "ت. مستغانم",
-                "status": "NS"
-            },
-            {
-                "round": 11,
-                "date": "",
-                "home": "ش. الساورة",
-                "away": "أ. بارادو",
-                "status": "NS"
-            },
-            {
-                "round": 11,
-                "date": "",
-                "home": "م. البيض",
-                "away": "م. الجزائر",
-                "status": "NS"
-            },
-            {
-                "round": 11,
-                "date": "",
-                "home": "ن. ر. القسنطيني",
-                "away": "ش. القبائل",
-                "status": "NS"
-            },
-            {
-                "round": 11,
-                "date": "",
-                "home": "م. الرويسات",
-                "away": "م. وهران",
-                "status": "NS"
-            },
-            {
-                "round": 11,
-                "date": "",
-                "home": "و. سطيف",
-                "away": "أ. أقبو",
-                "status": "NS"
-            },
-            {
-                "round": 11,
-                "date": "",
-                "home": "ج. أ. شلف",
-                "away": "ن. بن عكنون",
-                "status": "NS"
-            },
-            {
-                "round": 11,
-                "date": "",
-                "home": "ش. بلوزداد",
-                "away": "إ. الجزائر",
-                "status": "NS"
-            }
-        ]
-    },
-    {
-        "round": 12,
-        "date": "",
-        "home": "ت. مستغانم",
-        "away": "إ. الجزائر",
-        "status": "NS"
-    },
-    {
-        "round": 12,
-        "date": "",
-        "home": "ن. بن عكنون",
-        "away": "ش. بلوزداد",
-        "status": "NS"
-    },
-    {
-        "round": 12,
-        "date": "",
-        "home": "أ. أقبو",
-        "away": "ج. أ. الشلف",
-        "status": "NS"
-    },
-    {
-        "round": 12,
-        "date": "",
-        "home": "م. وهران",
-        "away": "و. سطيف",
-        "status": "NS"
-    },
-    {
-        "round": 12,
-        "date": "",
-        "home": "ش. القبائل",
-        "away": "م. الرويسات",
-        "status": "NS"
-    },
-    {
-        "round": 12,
-        "date": "",
-        "home": "م. الجزائر",
-        "away": "ن. ر. القسنطيني",
-        "status": "NS"
-    },
-    {
-        "round": 12,
-        "date": "",
-        "home": "أ. بارادو",
-        "away": "م. البيض",
-        "status": "NS"
-    },
-    {
-        "round": 12,
-        "date": "",
-        "home": "إ. خنشلة",
-        "away": "ش. الساورة",
-        "status": "NS"
-    },
-    {
-        "round": 13,
-        "date": "",
-        "home": "ش. الساورة",
-        "away": "ت. مستغانم",
-        "status": "NS"
-    },
-    {
-        "round": 13,
-        "date": "",
-        "home": "م. البيض",
-        "away": "إ. خنشلة",
-        "status": "NS"
-    },
-    {
-        "round": 13,
-        "date": "",
-        "home": "ن. ر. القسنطيني",
-        "away": "أ. بارادو",
-        "status": "NS"
-    },
-    {
-        "round": 13,
-        "date": "",
-        "home": "م. الرويسات",
-        "away": "م. الجزائر",
-        "status": "NS"
-    },
-    {
-        "round": 13,
-        "date": "",
-        "home": "و. سطيف",
-        "away": "ش. القبائل",
-        "status": "NS"
-    },
-    {
-        "round": 13,
-        "date": "",
-        "home": "ج. أ. الشلف",
-        "away": "م. وهران",
-        "status": "NS"
-    },
-    {
-        "round": 13,
-        "date": "",
-        "home": "ش. بلوزداد",
-        "away": "أ. أقبو",
-        "status": "NS"
-    },
-    {
-        "round": 13,
-        "date": "",
-        "home": "إ. الجزائر",
-        "away": "ن. ب. عكنون",
-        "status": "NS"
-    },
-    {
-        "round": 14,
-        "date": "",
-        "home": "ت. مستغانم",
-        "away": "ن. بن عكنون",
-        "status": "NS"
-    },
-    {
-        "round": 14,
-        "date": "",
-        "home": "أ. أقبو",
-        "away": "إ. الجزائر",
-        "status": "NS"
-    },
-    {
-        "round": 14,
-        "date": "",
-        "home": "م. وهران",
-        "away": "ش. بلوزداد",
-        "status": "NS"
-    },
-    {
-        "round": 14,
-        "date": "",
-        "home": "ش. القبائل",
-        "away": "ج. أ. الشلف",
-        "status": "NS"
-    },
-    {
-        "round": 14,
-        "date": "",
-        "home": "م. الجزائر",
-        "away": "و. سطيف",
-        "status": "NS"
-    },
-    {
-        "round": 14,
-        "date": "",
-        "home": "أ. بارادو",
-        "away": "م. الرويسات",
-        "status": "NS"
-    },
-    {
-        "round": 14,
-        "date": "",
-        "home": "إ. خنشلة",
-        "away": "ن. ر. القسنطيني",
-        "status": "NS"
-    },
-    {
-        "round": 14,
-        "date": "",
-        "home": "ش. الساورة",
-        "away": "م. البيض",
-        "status": "NS"
-    },
-    {
-        "round": 15,
-        "date": "",
-        "home": "م . البيض",
-        "away": "ت . مستغانم",
-        "status": "NS"
-    },
-    {
-        "round": 15,
-        "date": "",
-        "home": "ن . ر . القسنطيني",
-        "away": "ش . الساورة",
-        "status": "NS"
-    },
-    {
-        "round": 15,
-        "date": "",
-        "home": "م . الرويسات",
-        "away": "إ . خنشلة",
-        "status": "NS"
-    },
-    {
-        "round": 15,
-        "date": "",
-        "home": "و . سطيف",
-        "away": "أ . بارادو",
-        "status": "NS"
-    },
-    {
-        "round": 15,
-        "date": "",
-        "home": "م . الجزائر",
-        "away": "ج . أ . شلف",
-        "status": "NS"
-    },
-    {
-        "round": 15,
-        "date": "",
-        "home": "ش . بلوزداد",
-        "away": "ش . القبائل",
-        "status": "NS"
-    },
-    {
-        "round": 15,
-        "date": "",
-        "home": "إ . الجزائر",
-        "away": "م . وهران",
-        "status": "NS"
-    },
-    {
-        "round": 15,
-        "date": "",
-        "home": "ن . بن عكنون",
-        "away": "أ . أقبو",
-        "status": "NS"
-    }
+  { "round": 1, "date": "2025-08-21", "home": "أ. أقبو", "away": "ت. مستغانم", "status": "NS" },
+  { "round": 1, "date": "2025-08-21", "home": "م. وهران", "away": "ن. بن عكنون", "status": "NS" },
+  { "round": 1, "date": "2025-08-22", "home": "ش. القبائل", "away": "إ. الجزائر", "status": "NS" },
+  { "round": 1, "date": "2025-08-22", "home": "م. الجزائر", "away": "ش. بلوزداد", "status": "NS" },
+  { "round": 1, "date": "2025-08-22", "home": "أ. بارادو", "away": "ج. أ. الشلف", "status": "NS" },
+  { "round": 1, "date": "2025-08-23", "home": "إ. خنشلة", "away": "و. سطيف", "status": "NS" },
+  { "round": 1, "date": "2025-08-23", "home": "ش. الساورة", "away": "م. الرويسات", "status": "NS" },
+  { "round": 1, "date": "2025-08-23", "home": "م. البيض", "away": "ن. ر. القسنطيني", "status": "NS" },
+
+  { "round": 2, "date": "2025-08-28", "home": "ت . مستغانم", "away": "ن . ر . القسنطيني", "status": "NS" },
+  { "round": 2, "date": "2025-08-28", "home": "م . الرويسات", "away": "م . البيض", "status": "NS" },
+  { "round": 2, "date": "2025-08-29", "home": "و . سطيف", "away": "ش . الساورة", "status": "NS" },
+  { "round": 2, "date": "2025-08-29", "home": "إ . خنشلة", "away": "ج . الشلف", "status": "NS" },
+  { "round": 2, "date": "2025-08-29", "home": "ش . بلوزداد", "away": "أ . بارادو", "status": "NS" },
+  { "round": 2, "date": "2025-08-30", "home": "إ . الجزائر", "away": "م . الجزائر", "status": "NS" },
+  { "round": 2, "date": "2025-08-30", "home": "ن . بن عكنون", "away": "ش . القبائل", "status": "NS" },
+  { "round": 2, "date": "2025-08-30", "home": "أ . أقبو", "away": "م . وهران", "status": "NS" },
+
+  { "round": 3, "date": "2025-09-04", "home": "م . وهران", "away": "ت . مستغانم", "status": "NS" },
+  { "round": 3, "date": "2025-09-04", "home": "ش . القبائل", "away": "أ . أقبو", "status": "NS" },
+  { "round": 3, "date": "2025-09-05", "home": "أ . بارادو", "away": "إ . الجزائر", "status": "NS" },
+  { "round": 3, "date": "2025-09-05", "home": "م . الجزائر", "away": "ن . بن عكنون", "status": "NS" },
+  { "round": 3, "date": "2025-09-05", "home": "إ . خنشلة", "away": "ش . بلوزداد", "status": "NS" },
+  { "round": 3, "date": "2025-09-06", "home": "ش . الساورة", "away": "ج . الشلف", "status": "NS" },
+  { "round": 3, "date": "2025-09-06", "home": "م . البيض", "away": "و . سطيف", "status": "NS" },
+  { "round": 3, "date": "2025-09-06", "home": "ن . ر . القسنطيني", "away": "م . الرويسات", "status": "NS" },
+
+  { "round": 4, "date": "2025-09-11", "home": "ت . مستغانم", "away": "م . الرويسات", "status": "NS" },
+  { "round": 4, "date": "2025-09-11", "home": "و . سطيف", "away": "ن . ر . القسنطيني", "status": "NS" },
+  { "round": 4, "date": "2025-09-12", "home": "ج . الشلف", "away": "م . البيض", "status": "NS" },
+  { "round": 4, "date": "2025-09-12", "home": "ش . بلوزداد", "away": "ش . الساورة", "status": "NS" },
+  { "round": 4, "date": "2025-09-12", "home": "إ . خنشلة", "away": "إ . الجزائر", "status": "NS" },
+  { "round": 4, "date": "2025-09-13", "home": "ن . بن عكنون", "away": "أ . بارادو", "status": "NS" },
+  { "round": 4, "date": "2025-09-13", "home": "أ . أقبو", "away": "م . الجزائر", "status": "NS" },
+  { "round": 4, "date": "2025-09-13", "home": "م . وهران", "away": "ش . القبائل", "status": "NS" },
+
+  { "round": 5, "date": "2025-09-18", "home": "ش . القبائل", "away": "ت . مستغانم", "status": "NS" },
+  { "round": 5, "date": "2025-09-18", "home": "م . الجزائر", "away": "م . وهران", "status": "NS" },
+  { "round": 5, "date": "2025-09-19", "home": "أ . بارادو", "away": "أ . أقبو", "status": "NS" },
+  { "round": 5, "date": "2025-09-19", "home": "إ . خنشلة", "away": "ن . بن عكنون", "status": "NS" },
+  { "round": 5, "date": "2025-09-19", "home": "إ . الجزائر", "away": "ش . الساورة", "status": "NS" },
+  { "round": 5, "date": "2025-09-20", "home": "م . البيض", "away": "ن . ر . القسنطيني", "status": "NS" },
+  { "round": 5, "date": "2025-09-20", "home": "ش . بلوزداد", "away": "ج . الشلف", "status": "NS" },
+  { "round": 5, "date": "2025-09-20", "home": "و . سطيف", "away": "م . الرويسات", "status": "NS" },
+
+  { "round": 6, "date": "2025-09-25", "home": "ت . مستغانم", "away": "و . سطيف", "status": "NS" },
+  { "round": 6, "date": "2025-09-25", "home": "ج . أ . الشلف", "away": "ش . بلوزداد", "status": "NS" },
+  { "round": 6, "date": "2025-09-26", "home": "إ . الجزائر", "away": "م . البيض", "status": "NS" },
+  { "round": 6, "date": "2025-09-26", "home": "ن . بن عكنون", "away": "ش . الساورة", "status": "NS" },
+  { "round": 6, "date": "2025-09-26", "home": "أ . أقبو", "away": "إ . خنشلة", "status": "NS" },
+  { "round": 6, "date": "2025-09-27", "home": "م . وهران", "away": "أ . بارادو", "status": "NS" },
+  { "round": 6, "date": "2025-09-27", "home": "ش . القبائل", "away": "م . الجزائر", "status": "NS" },
+  { "round": 6, "date": "2025-09-27", "home": "م . الرويسات", "away": "ن . ر . القسنطيني", "status": "NS" },
+
+  { "round": 7, "date": "2025-10-02", "home": "م . الجزائر", "away": "ت . مستغانم", "status": "NS" },
+  { "round": 7, "date": "2025-10-02", "home": "أ . بارادو", "away": "ش . القبائل", "status": "NS" },
+  { "round": 7, "date": "2025-10-03", "home": "إ . خنشلة", "away": "م . وهران", "status": "NS" },
+  { "round": 7, "date": "2025-10-03", "home": "ش . الساورة", "away": "أ . أقبو", "status": "NS" },
+  { "round": 7, "date": "2025-10-03", "home": "م . البيض", "away": "ن . بن عكنون", "status": "NS" },
+  { "round": 7, "date": "2025-10-04", "home": "ن . ر . القسنطيني", "away": "إ . الجزائر", "status": "NS" },
+  { "round": 7, "date": "2025-10-04", "home": "م . الرويسات", "away": "ش . بلوزداد", "status": "NS" },
+  { "round": 7, "date": "2025-10-04", "home": "و . سطيف", "away": "ج . الشلف", "status": "NS" },
+
+  { "round": 8, "date": "2025-10-09", "home": "ت . مستغانم", "away": "ج . الشلف", "status": "NS" },
+  { "round": 8, "date": "2025-10-09", "home": "ش . بلوزداد", "away": "و . سطيف", "status": "NS" },
+  { "round": 8, "date": "2025-10-10", "home": "إ . الجزائر", "away": "م . الرويسات", "status": "NS" },
+  { "round": 8, "date": "2025-10-10", "home": "ن . بن عكنون", "away": "ن . ر . القسنطيني", "status": "NS" },
+  { "round": 8, "date": "2025-10-10", "home": "أ . أقبو", "away": "م . البيض", "status": "NS" },
+  { "round": 8, "date": "2025-10-11", "home": "م . وهران", "away": "ش . الساورة", "status": "NS" },
+  { "round": 8, "date": "2025-10-11", "home": "ش . القبائل", "away": "إ . خنشلة", "status": "NS" },
+  { "round": 8, "date": "2025-10-11", "home": "م . الجزائر", "away": "أ . بارادو", "status": "NS" },
+
+  { "round": 9, "date": "2025-10-16", "home": "أ. بارادو", "away": "ت. مستغانم", "status": "NS" },
+  { "round": 9, "date": "2025-10-16", "home": "إ. خنشلة", "away": "م. الجزائر", "status": "NS" },
+  { "round": 9, "date": "2025-10-17", "home": "ش. الساورة", "away": "ش. القبائل", "status": "NS" },
+  { "round": 9, "date": "2025-10-17", "home": "م. البيض", "away": "م. وهران", "status": "NS" },
+  { "round": 9, "date": "2025-10-17", "home": "ن. ر. القسنطيني", "away": "أ. أقبو", "status": "NS" },
+  { "round": 9, "date": "2025-10-18", "home": "م. الرويسات", "away": "ن. بن عكنون", "status": "NS" },
+  { "round": 9, "date": "2025-10-18", "home": "و. سطيف", "away": "إ. الجزائر", "status": "NS" },
+  { "round": 9, "date": "2025-10-18", "home": "ج. أ. الشلف", "away": "ش. بلوزداد", "status": "NS" },
+
+  { "round": 10, "date": "2025-10-23", "home": "ت. مستغانم", "away": "ش. بلوزداد", "status": "NS" },
+  { "round": 10, "date": "2025-10-23", "home": "إ. الجزائر", "away": "ج. أ. الشلف", "status": "NS" },
+  { "round": 10, "date": "2025-10-24", "home": "ن. ب. عكنون", "away": "و. سطيف", "status": "NS" },
+  { "round": 10, "date": "2025-10-24", "home": "أ. أقبو", "away": "م. الرويسات", "status": "NS" },
+  { "round": 10, "date": "2025-10-24", "home": "م. وهران", "away": "ن. ر. القسنطيني", "status": "NS" },
+  { "round": 10, "date": "2025-10-25", "home": "ش. القبائل", "away": "م. البيض", "status": "NS" },
+  { "round": 10, "date": "2025-10-25", "home": "م. الجزائر", "away": "ش. الساورة", "status": "NS" },
+  { "round": 10, "date": "2025-10-25", "home": "أ. بارادو", "away": "إ. خنشلة", "status": "NS" },
+
+  { "round": 11, "date": "2025-10-30", "home": "إ. خنشلة", "away": "ت. مستغانم", "status": "NS" },
+  { "round": 11, "date": "2025-10-30", "home": "ش. الساورة", "away": "أ. بارادو", "status": "NS" },
+  { "round": 11, "date": "2025-10-31", "home": "م. البيض", "away": "م. الجزائر", "status": "NS" },
+  { "round": 11, "date": "2025-10-31", "home": "ن. ر. القسنطيني", "away": "ش. القبائل", "status": "NS" },
+  { "round": 11, "date": "2025-10-31", "home": "م. الرويسات", "away": "م. وهران", "status": "NS" },
+  { "round": 11, "date": "2025-11-01", "home": "و. سطيف", "away": "أ. أقبو", "status": "NS" },
+  { "round": 11, "date": "2025-11-01", "home": "ج. أ. شلف", "away": "ن. بن عكنون", "status": "NS" },
+  { "round": 11, "date": "2025-11-01", "home": "ش. بلوزداد", "away": "إ. الجزائر", "status": "NS" },
+
+  { "round": 12, "date": "2025-11-06", "home": "ت. مستغانم", "away": "إ. الجزائر", "status": "NS" },
+  { "round": 12, "date": "2025-11-06", "home": "ن. بن عكنون", "away": "ش. بلوزداد", "status": "NS" },
+  { "round": 12, "date": "2025-11-07", "home": "أ. أقبو", "away": "ج. أ. الشلف", "status": "NS" },
+  { "round": 12, "date": "2025-11-07", "home": "م. وهران", "away": "و. سطيف", "status": "NS" },
+  { "round": 12, "date": "2025-11-07", "home": "ش. القبائل", "away": "م. الرويسات", "status": "NS" },
+  { "round": 12, "date": "2025-11-08", "home": "م. الجزائر", "away": "ن. ر. القسنطيني", "status": "NS" },
+  { "round": 12, "date": "2025-11-08", "home": "أ. بارادو", "away": "م. البيض", "status": "NS" },
+  { "round": 12, "date": "2025-11-08", "home": "إ. خنشلة", "away": "ش. الساورة", "status": "NS" },
+
+  { "round": 13, "date": "2025-11-13", "home": "ش. الساورة", "away": "ت. مستغانم", "status": "NS" },
+  { "round": 13, "date": "2025-11-13", "home": "م. البيض", "away": "إ. خنشلة", "status": "NS" },
+  { "round": 13, "date": "2025-11-14", "home": "ن. ر. القسنطيني", "away": "أ. بارادو", "status": "NS" },
+  { "round": 13, "date": "2025-11-14", "home": "م. الرويسات", "away": "م. الجزائر", "status": "NS" },
+  { "round": 13, "date": "2025-11-14", "home": "و. سطيف", "away": "ش. القبائل", "status": "NS" },
+  { "round": 13, "date": "2025-11-15", "home": "ج. أ. الشلف", "away": "م. وهران", "status": "NS" },
+  { "round": 13, "date": "2025-11-15", "home": "ش. بلوزداد", "away": "أ. أقبو", "status": "NS" },
+  { "round": 13, "date": "2025-11-15", "home": "إ. الجزائر", "away": "ن. ب. عكنون", "status": "NS" },
+
+  { "round": 14, "date": "2025-11-20", "home": "ت. مستغانم", "away": "ن. بن عكنون", "status": "NS" },
+  { "round": 14, "date": "2025-11-20", "home": "أ. أقبو", "away": "إ. الجزائر", "status": "NS" },
+  { "round": 14, "date": "2025-11-21", "home": "م. وهران", "away": "ش. بلوزداد", "status": "NS" },
+  { "round": 14, "date": "2025-11-21", "home": "ش. القبائل", "away": "ج. أ. الشلف", "status": "NS" },
+  { "round": 14, "date": "2025-11-21", "home": "م. الجزائر", "away": "و. سطيف", "status": "NS" },
+  { "round": 14, "date": "2025-11-22", "home": "أ. بارادو", "away": "م. الرويسات", "status": "NS" },
+  { "round": 14, "date": "2025-11-22", "home": "إ. خنشلة", "away": "ن. ر. القسنطيني", "status": "NS" },
+  { "round": 14, "date": "2025-11-22", "home": "ش. الساورة", "away": "م. البيض", "status": "NS" },
+
+  { "round": 15, "date": "2025-11-27", "home": "م . البيض", "away": "ت . مستغانم", "status": "NS" },
+  { "round": 15, "date": "2025-11-27", "home": "ن . ر . القسنطيني", "away": "ش . الساورة", "status": "NS" },
+  { "round": 15, "date": "2025-11-28", "home": "م . الرويسات", "away": "إ . خنشلة", "status": "NS" },
+  { "round": 15, "date": "2025-11-28", "home": "و . سطيف", "away": "أ . بارادو", "status": "NS" },
+  { "round": 15, "date": "2025-11-28", "home": "م . الجزائر", "away": "ج . أ . شلف", "status": "NS" },
+  { "round": 15, "date": "2025-11-29", "home": "ش . بلوزداد", "away": "ش . القبائل", "status": "NS" },
+  { "round": 15, "date": "2025-11-29", "home": "إ . الجزائر", "away": "م . وهران", "status": "NS" },
+  { "round": 15, "date": "2025-11-29", "home": "ن . بن عكنون", "away": "أ . أقبو", "status": "NS" }
 ]
