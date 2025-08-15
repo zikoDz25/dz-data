@@ -1,23 +1,9 @@
-[
-  {
-    "title": "مولودية الجزائر يفتتح الموسم بفوز مهم على شبيبة القبائل",
-    "date": "2025-08-16T18:30:00Z",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/MC_Alger_logo.png/200px-MC_Alger_logo.png",
-    "link": "https://www.elheddaf.com/article/mca-vs-jsk-2025",
-    "source": "الهداف"
-  },
-  {
-    "title": "شباب بلوزداد يعلن عن صفقة مهاجم جديد",
-    "date": "2025-08-15T14:00:00Z",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/CR_Belouizdad_logo.png/200px-CR_Belouizdad_logo.png",
-    "link": "https://www.elkhabar.com/article/crb-transfer-2025",
-    "source": "الخبر"
-  },
-  {
-    "title": "الرابطة تكشف برنامج الجولة الثانية",
-    "date": "2025-08-14T09:00:00Z",
-    "image": null,
-    "link": "https://lpfp.dz/article/round2-schedule",
-    "source": "الرابطة"
-  }
-]
+{
+  "title": "...",
+  "date": "2025-08-16T19:30:00Z",
+  "image": "https://...",
+  "link": "https://example.com/article",
+  "source": "الهداف",
+  "summary": "ملخص قصير للخبر...",
+  "content": "النص الكامل إن حبيت تحطه داخلياً."
+}
