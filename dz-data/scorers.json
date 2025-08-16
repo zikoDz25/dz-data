@@ -1,0 +1,18 @@
+[
+  {
+    "playerAr": "أنطوان سيمينيو",
+    "playerEn": "Antoine Semenyo",
+    "team": "بورنموث",
+    "team_logo": "https://upload.wikimedia.org/wikipedia/en/e/e5/AFC_Bournemouth_(2013).svg",
+    "player_image": "https://img.premierleague.com/headshots/premierleague/photos/players/250x250/p449952.png",
+    "goals": 2
+  },
+  {
+    "playerAr": "محمد صلاح",
+    "playerEn": "Mohamed Salah",
+    "team": "ليفربول",
+    "team_logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "player_image": "https://img.premierleague.com/headshots/premierleague/photos/players/250x250/p118748.png",
+    "goals": 1
+  }
+]
