@@ -1,9 +1,11 @@
-{
-  "title": "...",
-  "date": "2025-08-16T19:30:00Z",
-  "image": "https://...",
-  "link": "https://example.com/article",
-  "source": "الهداف",
-  "summary": "ملخص قصير للخبر...",
-  "content": "النص الكامل إن حبيت تحطه داخلياً."
-}
+[
+  {
+    "title": "مولودية الجزائر يفتتح الموسم بفوز مهم",
+    "date": "2025-08-16T19:30:00Z",
+    "image": "https://example.com/mca.jpg",
+    "link": "https://example.com/article",
+    "source": "الهداف",
+    "summary": "ملخص قصير...",
+    "content": "نص أطول اختياري..."
+  }
+]
