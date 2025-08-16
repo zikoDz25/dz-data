@@ -1,5 +1,5 @@
 [
-  { "round": 1, "date": "2025-08-21", "home": "أ. أقبو", "away": "ت. مستغانم", "status": "NS" },
+  { "round": 1, "date": "2025-08-21", "home": "أ. أقبو", "away": "ت. مستغانم", "status": "FT"  "home_goals": 3, "away_goals": 1 },
   { "round": 1, "date": "2025-08-21", "home": "م. وهران", "away": "ن. بن عكنون", "status": "NS" },
   { "round": 1, "date": "2025-08-22", "home": "ش. القبائل", "away": "إ. الجزائر", "status": "NS" },
   { "round": 1, "date": "2025-08-22", "home": "م. الجزائر", "away": "ش. بلوزداد", "status": "NS" },
