@@ -1,20 +1,98 @@
 [
   {
-    "name": "محمد صلاح",
-    "team": "ليفربول",
-    "goals": 1,
-    "image": "https://example.com/salah.png"
+    "name": "-",
+    "team": "ش. القبائل",
+    "goals": 0,
+    "image": ""
   },
   {
-    "name": "هوجو إيكيتيكي",
-    "team": "ليفربول",
-    "goals": 1,
-    "image": "https://example.com/hugo.png"
+    "name": "-",
+    "team": "م. الجزائر",
+    "goals": 0,
+    "image": ""
   },
   {
-    "name": "أنتوان سيمينيو",
-    "team": "بورنموث",
-    "goals": 2,
-    "image": "https://example.com/semenyo.png"
+    "name": "-",
+    "team": "إ. الجزائر",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "ش. بلوزداد",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "إ. سطيف",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "و.سطيف",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "ن. بارادو",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "م. وهران",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "ت. مستغانم",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "ن. بن عكنون",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "ش. الساورة",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "م. الرويسات",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "أ. أقبو",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "م. البيض",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "ج. الشلف",
+    "goals": 0,
+    "image": ""
+  },
+  {
+    "name": "-",
+    "team": "إ. خنشلة",
+    "goals": 0,
+    "image": ""
   }
 ]
