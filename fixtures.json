@@ -1,11 +1,11 @@
 [
-  { "round": 1, "date": "2025-08-21", "home": "أ. أقبو",   "away": "ت. مستغانم", "status": "FT", "home_goals": 2, "away_goals": 1 },
-  { "round": 1, "date": "2025-08-21", "home": "م. وهران", "away": "ن. بن عكنون", "status": "FT", "home_goals": 1, "away_goals": 1 },
+  { "round": 1, "date": "2025-08-21", "home": "أ. أقبو",   "away": "ت. مستغانم", "status": "NS" },
+  { "round": 1, "date": "2025-08-21", "home": "م. وهران", "away": "ن. بن عكنون", "status": "NS" },
   { "round": 1, "date": "2025-08-22", "home": "ش. القبائل", "away": "إ. الجزائر", "status": "NS" },
   { "round": 1, "date": "2025-08-22", "home": "م. الجزائر", "away": "ش. بلوزداد", "status": "NS" },
   { "round": 1, "date": "2025-08-22", "home": "أ. بارادو", "away": "ج. أ. الشلف", "status": "NS" },
   { "round": 1, "date": "2025-08-23", "home": "إ. خنشلة", "away": "و. سطيف", "status": "NS" },
-  { "round": 1, "date": "2025-08-23", "home": "ش. الساورة", "away": "م. الرويسات", "status": "FT", "home_goals": 1, "away_goals": 1 },
+  { "round": 1, "date": "2025-08-23", "home": "ش. الساورة", "away": "م. الرويسات", "status": "NS" },
   { "round": 1, "date": "2025-08-23", "home": "م. البيض", "away": "ن. ر. القسنطيني", "status": "NS" },
 
   { "round": 2, "date": "2025-08-28", "home": "ت . مستغانم", "away": "ن . ر . القسنطيني", "status": "NS" },
