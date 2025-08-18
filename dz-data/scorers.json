@@ -1,12 +1,13 @@
 [
-  { "player": "لسعد دردوري 1", "club": "م.الرويسات 1", "goals": 12 },
-  { "player": "لاعب 2", "club": "النادي 2", "goals": 11 },
-  { "player": "لاعب 3", "club": "النادي 3", "goals": 10 },
-  { "player": "لاعب 4", "club": "النادي 4", "goals": 9 },
-  { "player": "لاعب 5", "club": "النادي 5", "goals": 9 },
-  { "player": "لاعب 6", "club": "النادي 6", "goals": 8 },
-  { "player": "لاعب 7", "club": "النادي 7", "goals": 7 },
-  { "player": "لاعب 8", "club": "النادي 8", "goals": 6 },
-  { "player": "لاعب 9", "club": "النادي 9", "goals": 6 },
-  { "player": "لاعب 10", "club": "النادي 10", "goals": 5 }
+  { "player": "-", "club": "-", "goals": 0 },
+  { "player": "-", "club": "-", "goals": 0 },
+  { "player": "-", "club": "-", "goals": 0 },
+  { "player": "-", "club": "-", "goals": 0 },
+  { "player": "-", "club": "-", "goals": 0 },
+  { "player": "-", "club": "-", "goals": 0 },
+  { "player": "-", "club": "-", "goals": 0 },
+  { "player": "-", "club": "-", "goals": 0 },
+  { "player": "-", "club": "-", "goals": 0 },
+  { "player": "-", "club": "-", "goals": 0 }
 ]
+  { "player": "لاعب 6", "club": "النادي", "goals": 0 }
