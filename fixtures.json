@@ -98,7 +98,7 @@
     "round": 2,
     "date": "2025-08-29T00:00:00+01:00",
     "home": "إ. خنشلة",
-    "away": "ج. الشلف",
+    "away": "ج. أ. الشلف",
     "status": "NS",
     "home_goals": null,
     "away_goals": null
@@ -188,7 +188,7 @@
     "round": 3,
     "date": "2025-09-06T00:00:00+01:00",
     "home": "ش. الساورة",
-    "away": "ج. الشلف",
+    "away": "ج. أ. الشلف",
     "status": "NS",
     "home_goals": null,
     "away_goals": null
@@ -232,7 +232,7 @@
   {
     "round": 4,
     "date": "2025-09-12T00:00:00+01:00",
-    "home": "ج. الشلف",
+    "home": "ج. أ. الشلف",
     "away": "م. البيض",
     "status": "NS",
     "home_goals": null,
@@ -341,7 +341,7 @@
     "round": 5,
     "date": "2025-09-20T00:00:00+01:00",
     "home": "ش. بلوزداد",
-    "away": "ج. الشلف",
+    "away": "ج. أ. الشلف",
     "status": "NS",
     "home_goals": null,
     "away_goals": null
@@ -494,7 +494,7 @@
     "round": 7,
     "date": "2025-10-04T00:00:00+01:00",
     "home": "و. سطيف",
-    "away": "ج. الشلف",
+    "away": "ج. أ. الشلف",
     "status": "NS",
     "home_goals": null,
     "away_goals": null
@@ -503,7 +503,7 @@
     "round": 8,
     "date": "2025-10-09T00:00:00+01:00",
     "home": "ت. مستغانم",
-    "away": "ج. الشلف",
+    "away": "ج. أ. الشلف",
     "status": "NS",
     "home_goals": null,
     "away_goals": null
