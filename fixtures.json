@@ -37,12 +37,10 @@
 },
 {
   "round": 1,
-  "date": "2025-08-22T21:00:00+01:00",
+  "date": "2025-08-23T17:00:00+01:00",
   "home": "أ. بارادو",
   "away": "ج. أ. الشلف",
-  "status": "PST",
-  "home_goals": null,
-  "away_goals": null
+  "status": "NS"
 },
 {
   "round": 1,
