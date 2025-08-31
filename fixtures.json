@@ -76,46 +76,46 @@
     "date": "2025-08-28T00:00:00+01:00",
     "home": "ت. مستغانم",
     "away": "ن. ر. القسنطيني",
-    "status": "NS",
-    "home_goals": null,
-    "away_goals": null
-  },
+    "status": "FT",
+  "home_goals": 2,
+  "away_goals": 1
+},
   {
     "round": 2,
     "date": "2025-08-28T00:00:00+01:00",
     "home": "م. الرويسات",
     "away": "م. البيض",
-    "status": "NS",
-    "home_goals": null,
-    "away_goals": null
-  },
+    "status": "FT",
+  "home_goals": 1,
+  "away_goals": 0
+},
   {
     "round": 2,
     "date": "2025-08-29T00:00:00+01:00",
     "home": "و. سطيف",
     "away": "ش. الساورة",
-    "status": "NS",
-    "home_goals": null,
-    "away_goals": null
-  },
+    "status": "FT",
+  "home_goals": 1,
+  "away_goals": 1
+},
   {
     "round": 2,
     "date": "2025-08-29T00:00:00+01:00",
     "home": "إ. خنشلة",
     "away": "ج. أ. الشلف",
-    "status": "NS",
-    "home_goals": null,
-    "away_goals": null
-  },
+    "status": "FT",
+  "home_goals": 1,
+  "away_goals": 2
+},
   {
     "round": 2,
     "date": "2025-08-29T00:00:00+01:00",
     "home": "ش. بلوزداد",
     "away": "أ. بارادو",
-    "status": "NS",
-    "home_goals": null,
-    "away_goals": null
-  },
+    "status": "FT",
+  "home_goals": 1,
+  "away_goals": 0
+},
   {
     "round": 2,
     "date": "2025-08-30T00:00:00+01:00",
@@ -139,10 +139,10 @@
     "date": "2025-08-30T00:00:00+01:00",
     "home": "أ. أقبو",
     "away": "م. وهران",
-    "status": "NS",
-    "home_goals": null,
-    "away_goals": null
-  },
+    "status": "FT",
+  "home_goals": 1,
+  "away_goals": 0
+},
   {
     "round": 3,
     "date": "2025-09-04T00:00:00+01:00",
